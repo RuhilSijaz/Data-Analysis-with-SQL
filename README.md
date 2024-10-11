@@ -1,4 +1,4 @@
-# Data Analysis with SQL
+# Data Analysis with SQL and excel
 
 ## Overview
 
