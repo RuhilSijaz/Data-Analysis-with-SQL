@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository provides resources and examples for performing data analysis using SQL (Structured Query Language). SQL is a powerful tool for querying and managing data stored in relational databases. This guide will help you understand the basics of SQL, common data analysis techniques, and how to apply them to real-world datasets.
+This repository provides resources and examples for performing data analysis using SQL (Structured Query Language). SQL is a powerful tool for querying and managing data stored in relational databases. This guide will help you understand the basics of SQL and excel, common data analysis techniques, and how to apply them to real-world datasets.
 
 In this repository we will see:
 
